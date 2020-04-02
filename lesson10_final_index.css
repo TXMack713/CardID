@@ -1,0 +1,82 @@
+img {
+
+    width: 90px;
+    
+    height: 90px;
+    
+    float: left;
+    
+    }
+    
+    #idCard {
+    
+    border: 5px solid black;
+
+    border-radius: 30px;
+    
+    height: 14em;
+    
+    width: 25em;
+
+    background-color: burlywood;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    margin-left: 33.5%;
+    
+    }
+body{
+    background-color: dodgerblue;
+}
+/*
+Position the user inputs labels and text boxes within the center of the screen.
+*/
+label{
+    font-weight: bold;
+}
+h1{
+    margin-left: 36.25%;
+}
+#information{
+    padding-left: 42.5%;
+}
+#firstNameLabel{
+    padding-left: 6%;
+}
+#lastNameLabel{
+    padding-left: 6%;
+}
+#ageLabel{
+    padding-left: 9%;
+}
+#phoneNumberLabel{
+    padding-left: 4%;
+}
+#addressLabel{
+    padding-left: 7%;
+}
+#Submit{
+    margin-left: 5.5%;
+}
+#postFullName{
+    font-size: 1.75em;
+    font-weight: bolder;
+    margin-left: 30%;
+    border-left: 0px;
+    padding-left: 0px;
+}
+/*
+Position the age, phone number and address outputs along the left side of the ID card.
+*/
+#postAge{
+    left: 15px;
+}
+#postPhoneNumber{
+    left: 15px;
+}
+#postAddress{
+    left: 15px;
+}
+p{
+    left: 10px;
+}
